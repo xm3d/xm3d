@@ -10,7 +10,7 @@
 <div align="center">
     <a href="https://linkedin.com/in/msio" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  /></a>
     <a href="https://www.twitch.tv/msio808" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="twitch logo"  /></a>
-    <a href="https://instagram.com/msio414" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  /></a>
+    <a href="https://instagram.com/msio.dev" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  /></a>
     <a href="https://tryhackme.com/p/msio/" target="_blank"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=FFFFFF&logoColor=990000&labelColor=&style=for-the-badge" height="23" alt="tryhackme logo"  /></a>
     <a href="https://hackerrank.com/profile/mrmasio/" target="_blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="hackerrank logo"  /></a>
     <a href="https://youtube.com/@logstacklabs" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="youtube logo"  /></a>
@@ -35,6 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="41" alt="embeddedc logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="41" alt="docker logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="41" alt="canva logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" alt="javascript logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="41" alt="jupyter logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="41" alt="webstorm logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="41" alt="pycharm logo"  />
@@ -56,15 +57,18 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msio414&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=msio414&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-    <img src="https://streak-stats.demolab.com?user=msio414&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-    <img src="https://github-profile-trophy.vercel.app?username=msio414&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=msio414&radius=16&theme=dracula&area=true&order=5" height="313" alt="activity-graph graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xm3d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=xm3d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+        <img src="https://streak-stats.demolab.com?user=xm3d&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+    </div>
+    <br>
+    <!--img src="https://github-profile-trophy.vercel.app?username=xm3d&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br-->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xm3d&radius=16&theme=dracula&area=true&order=5" height="313" alt="activity-graph graph"  />
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msio414/msio414/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msio414/msio414/output/pacman-contribution-graph.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msio414/msio414/output/pacman-contribution-graph.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xm3d/xm3d/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xm3d/xm3d/output/pacman-contribution-graph.svg">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xm3d/xm3d/output/pacman-contribution-graph.svg">
     </picture>
 </div>
 
